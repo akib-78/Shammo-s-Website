@@ -1,0 +1,26 @@
+body {
+    background-color: #000080; /* Navy Blue Background */
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-color: #000066; /* Darker Navy for Navbar */
+}
+
+header {
+    background: #000080;
+}
+
+h2 {
+    color: #000080;
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #000066;
+}
